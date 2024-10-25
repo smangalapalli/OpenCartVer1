@@ -1,0 +1,261 @@
+16:18:26.750 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sansr\maven-workspace\OpenCartVer1\mygriddocker.xml"
+16:18:27.011 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sansr\maven-workspace\OpenCartVer1\mygriddocker.xml
+
+16:18:27.181 [main] INFO  testCases.TC001_AccountRegistrationTest - BaseClass setup is starting.
+16:18:27.181 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution environment set is local.
+16:18:39.448 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering verify_account_registration method.
+16:18:39.448 [main] INFO  testCases.TC001_AccountRegistrationTest - **************starting TC001_AccountRegistrationTest **************
+16:18:39.536 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on myaccount link**************
+16:18:40.261 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on Register link **************
+16:18:45.278 [main] DEBUG testCases.TC001_AccountRegistrationTest - **************Providing customer details **************
+16:19:05.441 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Validating expected message **************
+16:19:05.480 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Finished TC001_AccountRegistrationTest **************
+16:19:05.711 [main] INFO  testCases.TC002_LoginTest - BaseClass setup is starting.
+16:19:05.711 [main] INFO  testCases.TC002_LoginTest - Execution environment set is local.
+16:19:17.691 [main] INFO  testCases.TC002_LoginTest - Entering verify_login method.
+16:19:17.692 [main] INFO  testCases.TC002_LoginTest - **************starting TC002_LoginTest **************
+16:19:17.759 [main] INFO  testCases.TC002_LoginTest - **************clicked on MyAccount link**************
+16:19:18.134 [main] INFO  testCases.TC002_LoginTest - **************HomePage - clicked on Login link**************
+16:19:24.359 [main] INFO  testCases.TC002_LoginTest - **************Login Page - clicked on Login button**************
+16:19:45.523 [main] INFO  testCases.TC001_AccountRegistrationTest - BaseClass setup is starting.
+16:19:45.524 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution environment set is local.
+16:19:50.550 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering verify_account_registration method.
+16:19:50.550 [main] INFO  testCases.TC001_AccountRegistrationTest - **************starting TC001_AccountRegistrationTest **************
+16:19:50.803 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on myaccount link**************
+16:19:51.423 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on Register link **************
+16:19:56.426 [main] DEBUG testCases.TC001_AccountRegistrationTest - **************Providing customer details **************
+16:20:14.950 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Validating expected message **************
+16:20:14.972 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Finished TC001_AccountRegistrationTest **************
+16:20:15.555 [main] INFO  testCases.TC002_LoginTest - BaseClass setup is starting.
+16:20:15.555 [main] INFO  testCases.TC002_LoginTest - Execution environment set is local.
+16:20:19.965 [main] INFO  testCases.TC002_LoginTest - Entering verify_login method.
+16:20:19.965 [main] INFO  testCases.TC002_LoginTest - **************starting TC002_LoginTest **************
+16:20:20.223 [main] INFO  testCases.TC002_LoginTest - **************clicked on MyAccount link**************
+16:20:20.568 [main] INFO  testCases.TC002_LoginTest - **************HomePage - clicked on Login link**************
+16:20:26.868 [main] INFO  testCases.TC002_LoginTest - **************Login Page - clicked on Login button**************
+16:29:09.693 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sansr\maven-workspace\OpenCartVer1\mygriddocker.xml"
+16:29:09.987 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sansr\maven-workspace\OpenCartVer1\mygriddocker.xml
+
+16:29:10.169 [main] INFO  testCases.TC001_AccountRegistrationTest - BaseClass setup is starting.
+16:29:10.169 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution environment set is local.
+16:29:22.418 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering verify_account_registration method.
+16:29:22.418 [main] INFO  testCases.TC001_AccountRegistrationTest - **************starting TC001_AccountRegistrationTest **************
+16:29:26.784 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on myaccount link**************
+16:29:27.942 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on Register link **************
+16:29:32.950 [main] DEBUG testCases.TC001_AccountRegistrationTest - **************Providing customer details **************
+16:29:53.116 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Validating expected message **************
+16:29:53.160 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Finished TC001_AccountRegistrationTest **************
+16:29:53.374 [main] INFO  testCases.TC002_LoginTest - BaseClass setup is starting.
+16:29:53.374 [main] INFO  testCases.TC002_LoginTest - Execution environment set is local.
+16:30:05.573 [main] INFO  testCases.TC002_LoginTest - Entering verify_login method.
+16:30:05.573 [main] INFO  testCases.TC002_LoginTest - **************starting TC002_LoginTest **************
+16:30:05.649 [main] INFO  testCases.TC002_LoginTest - **************clicked on MyAccount link**************
+16:30:06.034 [main] INFO  testCases.TC002_LoginTest - **************HomePage - clicked on Login link**************
+16:30:12.695 [main] INFO  testCases.TC002_LoginTest - **************Login Page - clicked on Login button**************
+16:30:27.776 [main] INFO  testCases.TC002_LoginTest - **************Asserted if MyAccount Page exists**************
+16:30:27.777 [main] INFO  testCases.TC002_LoginTest - **************Finished TC002_LoginTest**************
+16:30:28.828 [main] INFO  testCases.TC001_AccountRegistrationTest - BaseClass setup is starting.
+16:30:28.828 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution environment set is local.
+16:30:33.145 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering verify_account_registration method.
+16:30:33.145 [main] INFO  testCases.TC001_AccountRegistrationTest - **************starting TC001_AccountRegistrationTest **************
+16:30:33.385 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on myaccount link**************
+16:30:34.098 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on Register link **************
+16:30:39.113 [main] DEBUG testCases.TC001_AccountRegistrationTest - **************Providing customer details **************
+16:30:57.606 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Validating expected message **************
+16:30:57.619 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Finished TC001_AccountRegistrationTest **************
+16:30:58.232 [main] INFO  testCases.TC002_LoginTest - BaseClass setup is starting.
+16:30:58.232 [main] INFO  testCases.TC002_LoginTest - Execution environment set is local.
+16:31:02.417 [main] INFO  testCases.TC002_LoginTest - Entering verify_login method.
+16:31:02.417 [main] INFO  testCases.TC002_LoginTest - **************starting TC002_LoginTest **************
+16:31:02.667 [main] INFO  testCases.TC002_LoginTest - **************clicked on MyAccount link**************
+16:31:03.008 [main] INFO  testCases.TC002_LoginTest - **************HomePage - clicked on Login link**************
+16:31:09.467 [main] INFO  testCases.TC002_LoginTest - **************Login Page - clicked on Login button**************
+16:31:24.520 [main] INFO  testCases.TC002_LoginTest - **************Asserted if MyAccount Page exists**************
+16:31:24.520 [main] INFO  testCases.TC002_LoginTest - **************Finished TC002_LoginTest**************
+16:31:58.748 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sansr\maven-workspace\OpenCartVer1\mygriddocker.xml"
+16:31:59.031 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sansr\maven-workspace\OpenCartVer1\mygriddocker.xml
+
+16:31:59.206 [main] INFO  testCases.TC001_AccountRegistrationTest - BaseClass setup is starting.
+16:31:59.206 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution environment set is Remote.
+16:31:59.210 [main] INFO  testCases.TC001_AccountRegistrationTest - OS Platform is set to LINUX.
+16:31:59.210 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser is set to Chrome.
+16:32:02.431 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering verify_account_registration method.
+16:32:02.431 [main] INFO  testCases.TC001_AccountRegistrationTest - **************starting TC001_AccountRegistrationTest **************
+16:32:02.523 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on myaccount link**************
+16:32:03.255 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on Register link **************
+16:32:08.257 [main] DEBUG testCases.TC001_AccountRegistrationTest - **************Providing customer details **************
+16:32:27.853 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Validating expected message **************
+16:32:27.889 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Finished TC001_AccountRegistrationTest **************
+16:32:28.052 [main] INFO  testCases.TC002_LoginTest - BaseClass setup is starting.
+16:32:28.052 [main] INFO  testCases.TC002_LoginTest - Execution environment set is Remote.
+16:32:28.052 [main] INFO  testCases.TC002_LoginTest - OS Platform is set to LINUX.
+16:32:28.052 [main] INFO  testCases.TC002_LoginTest - Browser is set to Chrome.
+16:32:30.752 [main] INFO  testCases.TC002_LoginTest - Entering verify_login method.
+16:32:30.752 [main] INFO  testCases.TC002_LoginTest - **************starting TC002_LoginTest **************
+16:32:30.829 [main] INFO  testCases.TC002_LoginTest - **************clicked on MyAccount link**************
+16:32:31.252 [main] INFO  testCases.TC002_LoginTest - **************HomePage - clicked on Login link**************
+16:32:38.007 [main] INFO  testCases.TC002_LoginTest - **************Login Page - clicked on Login button**************
+16:32:53.092 [main] INFO  testCases.TC002_LoginTest - **************Asserted if MyAccount Page exists**************
+16:32:53.092 [main] INFO  testCases.TC002_LoginTest - **************Finished TC002_LoginTest**************
+16:32:54.104 [main] INFO  testCases.TC001_AccountRegistrationTest - BaseClass setup is starting.
+16:32:54.105 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution environment set is Remote.
+16:32:54.105 [main] INFO  testCases.TC001_AccountRegistrationTest - OS Platform is set to LINUX.
+16:32:54.105 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser is set to Firefox.
+16:32:58.300 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering verify_account_registration method.
+16:32:58.301 [main] INFO  testCases.TC001_AccountRegistrationTest - **************starting TC001_AccountRegistrationTest **************
+16:32:58.565 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on myaccount link**************
+16:32:59.219 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on Register link **************
+16:33:04.224 [main] DEBUG testCases.TC001_AccountRegistrationTest - **************Providing customer details **************
+16:33:22.844 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Validating expected message **************
+16:33:22.876 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Finished TC001_AccountRegistrationTest **************
+16:33:23.430 [main] INFO  testCases.TC002_LoginTest - BaseClass setup is starting.
+16:33:23.430 [main] INFO  testCases.TC002_LoginTest - Execution environment set is Remote.
+16:33:23.430 [main] INFO  testCases.TC002_LoginTest - OS Platform is set to LINUX.
+16:33:23.430 [main] INFO  testCases.TC002_LoginTest - Browser is set to Firefox.
+16:33:26.805 [main] INFO  testCases.TC002_LoginTest - Entering verify_login method.
+16:33:26.805 [main] INFO  testCases.TC002_LoginTest - **************starting TC002_LoginTest **************
+16:33:27.068 [main] INFO  testCases.TC002_LoginTest - **************clicked on MyAccount link**************
+16:33:27.428 [main] INFO  testCases.TC002_LoginTest - **************HomePage - clicked on Login link**************
+16:33:33.922 [main] INFO  testCases.TC002_LoginTest - **************Login Page - clicked on Login button**************
+16:33:49.008 [main] INFO  testCases.TC002_LoginTest - **************Asserted if MyAccount Page exists**************
+16:33:49.008 [main] INFO  testCases.TC002_LoginTest - **************Finished TC002_LoginTest**************
+16:50:52.380 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sansr\maven-workspace\OpenCartVer1\mygriddocker.xml"
+16:50:52.672 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sansr\maven-workspace\OpenCartVer1\mygriddocker.xml
+
+16:50:52.882 [main] INFO  testCases.TC001_AccountRegistrationTest - BaseClass setup is starting.
+16:50:52.882 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution environment set is Remote.
+16:50:52.887 [main] INFO  testCases.TC001_AccountRegistrationTest - OS Platform is set to LINUX.
+16:50:52.887 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser is set to Chrome.
+16:50:57.610 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering verify_account_registration method.
+16:50:57.611 [main] INFO  testCases.TC001_AccountRegistrationTest - **************starting TC001_AccountRegistrationTest **************
+16:50:57.696 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on myaccount link**************
+16:50:58.418 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on Register link **************
+16:51:03.438 [main] DEBUG testCases.TC001_AccountRegistrationTest - **************Providing customer details **************
+16:51:10.955 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Validating expected message **************
+16:51:11.005 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Finished TC001_AccountRegistrationTest **************
+16:51:11.115 [main] INFO  testCases.TC002_LoginTest - BaseClass setup is starting.
+16:51:11.115 [main] INFO  testCases.TC002_LoginTest - Execution environment set is Remote.
+16:51:11.115 [main] INFO  testCases.TC002_LoginTest - OS Platform is set to LINUX.
+16:51:11.115 [main] INFO  testCases.TC002_LoginTest - Browser is set to Chrome.
+16:51:14.717 [main] INFO  testCases.TC002_LoginTest - Entering verify_login method.
+16:51:14.718 [main] INFO  testCases.TC002_LoginTest - **************starting TC002_LoginTest **************
+16:51:14.798 [main] INFO  testCases.TC002_LoginTest - **************clicked on MyAccount link**************
+16:51:15.198 [main] INFO  testCases.TC002_LoginTest - **************HomePage - clicked on Login link**************
+16:51:18.275 [main] INFO  testCases.TC002_LoginTest - **************Login Page - clicked on Login button**************
+16:51:24.374 [main] INFO  testCases.TC002_LoginTest - **************Asserted if MyAccount Page exists**************
+16:51:24.374 [main] INFO  testCases.TC002_LoginTest - **************Finished TC002_LoginTest**************
+16:53:27.702 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sansr\maven-workspace\OpenCartVer1\mygriddocker.xml"
+16:53:27.955 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sansr\maven-workspace\OpenCartVer1\mygriddocker.xml
+
+16:53:28.123 [main] INFO  testCases.TC001_AccountRegistrationTest - BaseClass setup is starting.
+16:53:28.123 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution environment set is Remote.
+16:53:28.127 [main] INFO  testCases.TC001_AccountRegistrationTest - OS Platform is set to LINUX.
+16:53:28.127 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser is set to Chrome.
+16:53:31.532 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering verify_account_registration method.
+16:53:31.532 [main] INFO  testCases.TC001_AccountRegistrationTest - **************starting TC001_AccountRegistrationTest **************
+16:53:31.617 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on myaccount link**************
+16:53:32.336 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on Register link **************
+16:53:34.350 [main] DEBUG testCases.TC001_AccountRegistrationTest - **************Providing customer details **************
+16:53:39.948 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Validating expected message **************
+16:53:40.005 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Finished TC001_AccountRegistrationTest **************
+16:53:40.097 [main] INFO  testCases.TC002_LoginTest - BaseClass setup is starting.
+16:53:40.097 [main] INFO  testCases.TC002_LoginTest - Execution environment set is Remote.
+16:53:40.097 [main] INFO  testCases.TC002_LoginTest - OS Platform is set to LINUX.
+16:53:40.097 [main] INFO  testCases.TC002_LoginTest - Browser is set to Chrome.
+16:53:42.803 [main] INFO  testCases.TC002_LoginTest - Entering verify_login method.
+16:53:42.804 [main] INFO  testCases.TC002_LoginTest - **************starting TC002_LoginTest **************
+16:53:42.910 [main] INFO  testCases.TC002_LoginTest - **************clicked on MyAccount link**************
+16:53:43.395 [main] INFO  testCases.TC002_LoginTest - **************HomePage - clicked on Login link**************
+16:53:45.514 [main] INFO  testCases.TC002_LoginTest - **************Login Page - clicked on Login button**************
+16:53:49.617 [main] INFO  testCases.TC002_LoginTest - **************Asserted if MyAccount Page exists**************
+16:53:49.618 [main] INFO  testCases.TC002_LoginTest - **************Finished TC002_LoginTest**************
+19:39:33.590 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sansr\maven-workspace\OpenCartVer1\master.xml"
+19:39:33.977 [main] INFO  testCases.TC004_GoogleHomeSearchTest - BaseClass setup is starting.
+19:39:33.977 [main] INFO  testCases.TC004_GoogleHomeSearchTest - Execution environment set is Remote.
+19:39:33.980 [main] INFO  testCases.TC004_GoogleHomeSearchTest - OS Platform is set to Windows.
+19:39:33.981 [main] INFO  testCases.TC004_GoogleHomeSearchTest - Browser is set to Chrome.
+19:41:59.057 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sansr\maven-workspace\OpenCartVer1\master.xml"
+19:41:59.422 [main] INFO  testCases.TC001_AccountRegistrationTest - BaseClass setup is starting.
+19:41:59.422 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution environment set is Remote.
+19:41:59.425 [main] INFO  testCases.TC001_AccountRegistrationTest - OS Platform is set to Windows.
+19:41:59.425 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser is set to Chrome.
+19:43:27.473 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sansr\maven-workspace\OpenCartVer1\master.xml"
+19:43:27.860 [main] INFO  testCases.TC001_AccountRegistrationTest - BaseClass setup is starting.
+19:43:27.860 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution environment set is local.
+19:43:41.399 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering verify_account_registration method.
+19:43:41.399 [main] INFO  testCases.TC001_AccountRegistrationTest - **************starting TC001_AccountRegistrationTest **************
+19:43:41.518 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on myaccount link**************
+19:43:42.120 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on Register link **************
+19:43:44.146 [main] DEBUG testCases.TC001_AccountRegistrationTest - **************Providing customer details **************
+19:43:49.941 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Validating expected message **************
+19:43:49.978 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Finished TC001_AccountRegistrationTest **************
+19:43:50.209 [main] INFO  testCases.TC002_LoginTest - BaseClass setup is starting.
+19:43:50.209 [main] INFO  testCases.TC002_LoginTest - Execution environment set is local.
+19:44:02.182 [main] INFO  testCases.TC002_LoginTest - Entering verify_login method.
+19:44:02.182 [main] INFO  testCases.TC002_LoginTest - **************starting TC002_LoginTest **************
+19:44:59.771 [main] INFO  testCases.TC002_LoginTest - BaseClass setup is starting.
+19:44:59.771 [main] INFO  testCases.TC002_LoginTest - Execution environment set is local.
+19:45:11.094 [main] INFO  testCases.TC002_LoginTest - Entering verify_login method.
+19:45:11.094 [main] INFO  testCases.TC002_LoginTest - **************starting TC002_LoginTest **************
+19:46:34.008 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sansr\maven-workspace\OpenCartVer1\master.xml"
+19:46:34.390 [main] INFO  testCases.TC001_AccountRegistrationTest - BaseClass setup is starting.
+19:46:34.390 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution environment set is local.
+19:46:46.295 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering verify_account_registration method.
+19:46:46.295 [main] INFO  testCases.TC001_AccountRegistrationTest - **************starting TC001_AccountRegistrationTest **************
+19:46:52.753 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on myaccount link**************
+19:46:54.506 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on Register link **************
+19:46:56.514 [main] DEBUG testCases.TC001_AccountRegistrationTest - **************Providing customer details **************
+19:47:02.181 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Validating expected message **************
+19:47:02.221 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Finished TC001_AccountRegistrationTest **************
+19:47:02.439 [main] INFO  testCases.TC002_LoginTest - BaseClass setup is starting.
+19:47:02.439 [main] INFO  testCases.TC002_LoginTest - Execution environment set is local.
+19:47:14.255 [main] INFO  testCases.TC002_LoginTest - Entering verify_login method.
+19:47:14.255 [main] INFO  testCases.TC002_LoginTest - **************starting TC002_LoginTest **************
+19:47:14.339 [main] INFO  testCases.TC002_LoginTest - **************clicked on MyAccount link**************
+19:47:14.674 [main] INFO  testCases.TC002_LoginTest - **************HomePage - clicked on Login link**************
+19:47:16.720 [main] INFO  testCases.TC002_LoginTest - **************Login Page - clicked on Login button**************
+19:47:20.794 [main] INFO  testCases.TC002_LoginTest - **************Asserted if MyAccount Page exists**************
+19:47:20.795 [main] INFO  testCases.TC002_LoginTest - **************Finished TC002_LoginTest**************
+20:46:23.928 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sansr\maven-workspace\OpenCartVer1\master.xml"
+20:46:24.264 [main] INFO  testCases.TC001_AccountRegistrationTest - BaseClass setup is starting.
+20:46:24.265 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution environment set is local.
+20:46:37.713 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering verify_account_registration method.
+20:46:37.713 [main] INFO  testCases.TC001_AccountRegistrationTest - **************starting TC001_AccountRegistrationTest **************
+20:46:37.815 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on myaccount link**************
+20:46:38.378 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on Register link **************
+20:46:40.389 [main] DEBUG testCases.TC001_AccountRegistrationTest - **************Providing customer details **************
+20:46:45.995 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Validating expected message **************
+20:46:46.027 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Finished TC001_AccountRegistrationTest **************
+20:46:46.246 [main] INFO  testCases.TC002_LoginTest - BaseClass setup is starting.
+20:46:46.246 [main] INFO  testCases.TC002_LoginTest - Execution environment set is local.
+20:46:58.187 [main] INFO  testCases.TC002_LoginTest - Entering verify_login method.
+20:46:58.187 [main] INFO  testCases.TC002_LoginTest - **************starting TC002_LoginTest **************
+20:46:58.268 [main] INFO  testCases.TC002_LoginTest - **************clicked on MyAccount link**************
+20:46:58.711 [main] INFO  testCases.TC002_LoginTest - **************HomePage - clicked on Login link**************
+20:47:00.696 [main] INFO  testCases.TC002_LoginTest - **************Login Page - clicked on Login button**************
+20:47:04.758 [main] INFO  testCases.TC002_LoginTest - **************Asserted if MyAccount Page exists**************
+20:47:04.758 [main] INFO  testCases.TC002_LoginTest - **************Finished TC002_LoginTest**************
+21:03:16.194 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sansr\maven-workspace\OpenCartVer1\master.xml"
+21:03:16.539 [main] INFO  testCases.TC001_AccountRegistrationTest - BaseClass setup is starting.
+21:03:16.539 [main] INFO  testCases.TC001_AccountRegistrationTest - Execution environment set is local.
+21:03:28.665 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering verify_account_registration method.
+21:03:28.665 [main] INFO  testCases.TC001_AccountRegistrationTest - **************starting TC001_AccountRegistrationTest **************
+21:03:28.773 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on myaccount link**************
+21:03:29.379 [main] INFO  testCases.TC001_AccountRegistrationTest - **************clicked on Register link **************
+21:03:31.385 [main] DEBUG testCases.TC001_AccountRegistrationTest - **************Providing customer details **************
+21:03:37.212 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Validating expected message **************
+21:03:37.247 [main] INFO  testCases.TC001_AccountRegistrationTest - **************Finished TC001_AccountRegistrationTest **************
+21:03:37.448 [main] INFO  testCases.TC002_LoginTest - BaseClass setup is starting.
+21:03:37.448 [main] INFO  testCases.TC002_LoginTest - Execution environment set is local.
+21:03:49.442 [main] INFO  testCases.TC002_LoginTest - Entering verify_login method.
+21:03:49.442 [main] INFO  testCases.TC002_LoginTest - **************starting TC002_LoginTest **************
+21:03:49.510 [main] INFO  testCases.TC002_LoginTest - **************clicked on MyAccount link**************
+21:03:49.871 [main] INFO  testCases.TC002_LoginTest - **************HomePage - clicked on Login link**************
+21:03:51.887 [main] INFO  testCases.TC002_LoginTest - **************Login Page - clicked on Login button**************
+21:03:55.946 [main] INFO  testCases.TC002_LoginTest - **************Asserted if MyAccount Page exists**************
+21:03:55.946 [main] INFO  testCases.TC002_LoginTest - **************Finished TC002_LoginTest**************
